@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>mi pagina Dario</title>
+  <title>Mi Página Personal</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -35,19 +35,19 @@
 <body>
 
   <header>
-    <h1>¡Hola! Soy DARIO ARELA</h1>
+    <h1>¡Hola! Soy dario</h1>
     <p>Bienvenido a mi primera página web</p>
   </header>
 
   <section>
     <h2>Sobre mí</h2>
     <p>Me gusta la tecnología, la programación y aprender cosas nuevas.</p>
-    <img src="https://via.placeholder.com/200" alt="Foto de perfil">
+    <img src="Imagen de dario 2025-05-26 a las 19.21.49_7335e327.jpg" alt="Foto de perfil">
   </section>
 
   <section>
     <h2>Contacto</h2>
-    <p>Correo: <a href="mailto:ejemplo@email.com">ejemplo@email.com</a></p>
+    <p>Correo: <a href="dariojosearela@gmail.com">dariojosearela@gmail.com</a></p>
   </section>
 
   <footer>
